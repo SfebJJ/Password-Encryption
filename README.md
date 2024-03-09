@@ -1,2 +1,2 @@
 # Password-Encryption
-Some simple &amp; quick password encryption methods
+2 very simple &amp; quick password encryption methods
